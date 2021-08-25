@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<a href="https://github.com/jxroot"><img src="https://s19.picofile.com/file/8439842634/200.gif"=alt"bt">
+
 
 <p align="center"><a href="https://github.com/jxroot"><img title="JXROOT" src="https://github-readme-stats.vercel.app/api?username=jxroot&show_icons=true&include_all_commits=true&theme=dracula&cache_seconds=3200"></a>
 <a href="https://github.com/jxroot"><img title="jxroot" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxroot&layout=compact&theme=dracula"></a>
