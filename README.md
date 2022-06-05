@@ -19,6 +19,7 @@
 
 <p align="center">
 <a href="https://github.com/jxroot/adbwebkit"><img title="ADBWEBKIT" src="https://github-readme-stats.vercel.app/api/pin/?username=jxroot&repo=adbwebkit&theme=dracula"></a>
+  <a href="https://github.com/jxroot/promoxy"><img title="ADBWEBKIT" src="https://github-readme-stats.vercel.app/api/pin/?username=jxroot&repo=promoxy&theme=dracula"></a>
 </p>
 
 
