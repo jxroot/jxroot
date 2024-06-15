@@ -21,6 +21,7 @@
 <a href="https://github.com/jxroot/adbwebkit"><img title="ADBWEBKIT" src="https://github-readme-stats.vercel.app/api/pin/?username=jxroot&repo=adbwebkit&theme=dracula"></a>
   <a href="https://github.com/jxroot/promoxy"><img title="promoxy" src="https://github-readme-stats.vercel.app/api/pin/?username=jxroot&repo=promoxy&theme=dracula"></a>
     <a href="https://github.com/jxroot/ReHTTP"><img title="ReHTTP" src="https://github-readme-stats.vercel.app/api/pin/?username=jxroot&repo=ReHTTP&theme=dracula"></a>
+     <a href="https://github.com/jxroot/powtel"><img title="Powtel" src="https://github-readme-stats.vercel.app/api/pin/?username=jxroot&repo=powtel&theme=dracula"></a>
 </p>
 
 
